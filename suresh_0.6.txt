@@ -1,0 +1,10 @@
+title 0.6: New note
+browser->server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/spa/#
+server-->browser: HTML-code
+
+
+
+
+note over browser:
+browser allows interacting with the page without refreshing it
+end note
